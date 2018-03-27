@@ -1,1 +1,3 @@
-printf("Hello world!");
+int main() {
+	printf("Apenas um repositório para se aquecer no git!");
+}
